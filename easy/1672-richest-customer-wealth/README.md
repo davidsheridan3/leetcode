@@ -21,7 +21,7 @@ Input: accounts = [[2,8,7],[7,1,3],[1,9,5]]
 Output: 17
 ```
 
-## Approach
+## My Approach
 
 Start with a variable `richest_person` set to `0` to keep track of the greatest wealth found so far.
 
