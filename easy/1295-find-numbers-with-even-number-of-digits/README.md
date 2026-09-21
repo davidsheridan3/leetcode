@@ -8,7 +8,7 @@ Given a list of integers `nums`, return how many numbers contain an even number 
 
 For each number, determine how many digits it contains and check whether that count is even.
 
-## Examples
+## Example
 
 ```text
 Input: nums = [12,345,2,6,7896]
